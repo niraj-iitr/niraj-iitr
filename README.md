@@ -47,23 +47,7 @@
 
   ---
 
-  ## 📊 GitHub Analytics
-
-  <div align="center">
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niraj-iitr&theme=tokyonight" alt="Profile Summary" />
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niraj-iitr&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niraj-iitr&theme=tokyonight" alt="Most Commit Language" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=niraj-iitr&theme=tokyonight" alt="GitHub Streak" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=niraj-iitr&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-
-  </div>
-
-  ---
-
+  
   ## 🛠️ Tech Stack
 
   <div align="center">
