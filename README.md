@@ -179,7 +179,7 @@
 
   | 🎓 Degree | 🏫 Institution | 📅 Duration |
   |:---|:---|:---|
-  | **B.Tech, Chemical Engineering** | IIT Roorkee | 2022 – 2026 |
+  | **B.Tech** | IIT Roorkee | 2022 – 2026 |
   | **Intermediate (Science)** | Purnea College | 2020 – 2022 |
   | **High School** | Zila School | 2018 – 2020 |
 
